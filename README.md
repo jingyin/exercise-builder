@@ -1,6 +1,8 @@
 # Exercise Logger
 
-A Next.js application for logging exercises with detailed tracking of movements, resistances, and rep configurations.
+A prototype Next.js application for logging exercises with detailed tracking of movements, resistances, and rep configurations.
+
+> **Note:** This is a frontend prototype with no backend persistence. Data is not saved between sessions.
 
 ## Key Features
 
